@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoviesMVVM</string>
+    <string name="movie_loading_error">Erro ao carregar filmes...</string>
+    <string name="connection_problem_at_fetching_movie_list">Connection problem at fetching movie list</string>
+</resources>
